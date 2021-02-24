@@ -39,4 +39,17 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
+The project code as well as the detailed instructions are documented in the `Tennis.ipynb` jupyter notebook.
+
+Follow these steps to Run the Jupyter notebook on your computer
+1. Download/Clone this repository.
+2. Open a terminal and change directory to the location of the repository. 
+eg. `cd c:\path\to\repository\DDPG-Collaboration`
+1. Install [Python 3](https://www.python.org/downloads/) and then install Jupyter notebook using
+ `pip install jupyter` (Alternative: [Anaconda 3](https://www.anaconda.com/products/individual))
+4. Run this notebook using `jupyter notebook`
+5. Open the file `Tennis.ipynb`
+
 Follow the instructions in `Tennis.ipynb` to view the trained agent or train your own agent! 
+
+You can also explore more about the project code files in the [Project Report](REPORT.md)
